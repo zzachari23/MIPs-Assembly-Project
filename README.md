@@ -6,5 +6,5 @@ The assembly program was intended on getting familar with low level programming 
 
 ## Built With 
 
-*eMACS
-*MIPS assembly 
+* eMACS
+* MIPS assembly 
